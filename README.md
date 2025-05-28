@@ -57,7 +57,7 @@ python real_time_object_detection_pipeline.py
 
 - **Model:** YOLOv8s (pre-trained on COCO)
 - **Classes detected:** 80 (person, car, dog, etc.)
-- **Achieved FPS:** (fill in your observed FPS, e.g., 18 FPS)
+- **Achieved FPS:** (16 FPS)
 - **Demo video:** See `output.avi` or attached video file
 
 ## Notes
